@@ -1,0 +1,10 @@
+001 KFU Kazan
+002 group2 Ulyanovsk
+003 group3 Ulyanovsk
+004 group4 Kazan
+005 group5 Moscow
+006 group6 Kazan
+007 group7 Ulyanovsk
+008 group8 Ulyanovsk
+009 group9 Samara
+010 group10 Moscow

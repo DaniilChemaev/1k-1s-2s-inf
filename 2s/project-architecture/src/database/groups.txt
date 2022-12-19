@@ -1,0 +1,5 @@
+001 KFU 0
+002 group2 200
+003 group3 300
+004 group4 400
+005 group5 500

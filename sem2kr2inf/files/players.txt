@@ -1,0 +1,10 @@
+001 Чемаев Даниил Сергеевич Вратарь Россия 2003
+002 surname2 name2 subname2 Вратарь Англия 2000
+003 surname3 name3 subname3 Защитник Россия 1999
+004 surname4 name4 subname4 Вратарь Англия 1998
+005 surname5 name5 subname5 Защитник Испания 1998
+006 surname6 name6 subname6 Вратарь Испания 1998
+007 surname7 name7 subname7 Защитник Хорватия 1990
+008 surname8 name8 subname8 Вратарь Австралия 1990
+009 surname9 name9 subname9 Нападающий Россия 1989
+010 surname10 name10 subname10 Нападающий Россия 1989

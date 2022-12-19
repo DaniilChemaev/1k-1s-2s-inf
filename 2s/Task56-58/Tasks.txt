@@ -1,0 +1,15 @@
+"Практика от 13 мая - динамическое программирование
+0. Решить задачу поиска максимальной длины возрастающей подпоследовательности через динамическое программирование
+1. Решить задачу поиска максимальной длины общей подпоследовательности двух последовательностей через динамическое программирование
+2. Решить любые 5 задач
+с объяснением
+https://acmp.ru/index.asp?main=task&id_task=114
+https://acmp.ru/index.asp?main=task&id_task=183
+без объяснения
+https://acmp.ru/index.asp?main=task&id_task=38
+https://acmp.ru/index.asp?main=task&id_task=186
+https://acmp.ru/index.asp?main=task&id_task=194
+https://acmp.ru/index.asp?main=task&id_task=212
+https://acmp.ru/index.asp?main=task&id_task=214
+https://acmp.ru/index.asp?main=task&id_task=243
+https://acmp.ru/index.asp?main=task&id_task=247"
